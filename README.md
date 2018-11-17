@@ -13,5 +13,5 @@ $ yarn start
 ```
 
 ```
-$ curl -X GET 'https://vigorous-agnesi-71ff53.netlify.com/.netlify/functions/hello'
+$ curl -X GET 'https://vigorous-agnesi-71ff53.netlify.com/.netlify/functions/about'
 ```
